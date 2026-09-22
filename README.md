@@ -15,15 +15,15 @@ https://my-portfolio-one-dun-67.vercel.app/
 
 Currently learning Full-Stack Software Engineering at Moringa School
 
-💻 Interested in Backend Development, APIs and Databases
+1. Interested in Backend Development, APIs and Databases
 
-🚀 Building projects that strengthen my skills every day
+2. Building projects that strengthen my skills every day
 
-🎯 Goal: Become a professional Full-Stack Software Engineer
+3. Goal: Become a professional Full-Stack Software Engineer
 
 📍 Nairobi, Kenya
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 - Python
@@ -41,25 +41,25 @@ Currently learning Full-Stack Software Engineering at Moringa School
 
 ## Featured Projects
 
-### 🏠 Hostel Management Information System
+### Hostel Management Information System
 A web application for managing hostel rooms, student registration, payments and room allocation.
 
-### 📱 Ichi
+### Ichi
 A personal application currently under development.
 
-### 📝 Student Management System
+### Student Management System
 A CRUD application for managing student records.
 
-### 📚 Library Management System
+###  Library Management System
 A database project for managing books, borrowing and returns.
 
-### ✅ To-Do App
+### To-Do App
 A task management application built using Flask.
 
-### 💰 Expense Tracker
+### Expense Tracker
 Track income, expenses and monthly spending.
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Flask REST APIs
 - Authentication
@@ -68,10 +68,10 @@ Track income, expenses and monthly spending.
 - Docker
 - Deployment
 
-## 📫 Connect With Me
-
+## 
+Connect With Me
 - GitHub: https://github.com/celestine-021
+- Portfolio: https://my-portfolio-one-dun-67.vercel.app/
+- linked in: https://www.linkedin.com/in/celestine-wangari-45140134a
 
----
-
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
