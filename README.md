@@ -8,9 +8,12 @@ Aspiring Full-Stack Developer | Python • Flask • SQL | Kenya 🇰🇪
 I enjoy building practical applications that solve real-world problems and I'm constantly learning new technologies.
 </p>
 
-## 👩‍💻 About Me
+## MY PORTFOLIO
+https://my-portfolio-one-dun-67.vercel.app/
 
-🌱 Currently learning Full-Stack Software Engineering at Moringa School
+##  About Me
+
+Currently learning Full-Stack Software Engineering at Moringa School
 
 💻 Interested in Backend Development, APIs and Databases
 
@@ -36,7 +39,7 @@ I enjoy building practical applications that solve real-world problems and I'm c
 - VS Code
 - SQLite
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🏠 Hostel Management Information System
 A web application for managing hostel rooms, student registration, payments and room allocation.
