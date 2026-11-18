@@ -1,77 +1,121 @@
-<h1 align="center">Hi 👋, I'm Celestine Wangari</h1>
+<h1 align="center">Hi, I'm a Software Engineer</h1>
 
 <h3 align="center">
-Aspiring Full-Stack Developer | Python • Flask • SQL | Kenya 🇰🇪
+  Frontend Developer | Backend Development | Software Engineering
 </h3>
 
 <p align="center">
-I enjoy building practical applications that solve real-world problems and I'm constantly learning new technologies.
+  Passionate about building functional, scalable, and user-focused applications.
 </p>
 
-## MY PORTFOLIO
-https://my-portfolio-one-dun-67.vercel.app/
+---
 
-##  About Me
+## About Me
 
-Currently learning Full-Stack Software Engineering at Moringa School
+I am an aspiring Software Engineer passionate about technology, software development, problem-solving, and building solutions that address real-world challenges.
 
-1. Interested in Backend Development, APIs and Databases
+My journey began at **Michuki National Polytechnic**, where I pursued a Diploma in Information and Communication Technology (ICT). Driven by my passion for technology and desire to advance my technical capabilities, I proceeded to **Moringa School** to pursue Software Engineering.
 
-2. Building projects that strengthen my skills every day
+Through hands-on learning and project development, I have gained experience building interactive applications, implementing authentication systems, managing application state, and working with relational databases.
 
-3. Goal: Become a professional Full-Stack Software Engineer
+I enjoy transforming ideas into functional applications, writing clean and maintainable code, exploring new technologies, and continuously improving my engineering skills.
 
-📍 Nairobi, Kenya
+---
 
-## Tech Stack
+## Technical Stack
 
-### Languages
-- Python
-- JavaScript
-- HTML5
-- CSS3
-- SQL
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-### Frameworks & Tools
-- Flask
-- Git
-- GitHub
-- VS Code
-- SQLite
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### Authentication & Security
+- JSON Web Tokens (JWT)
+- User Authentication and Authorization
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm" />
+</p>
+
+---
+
+## Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=express,mongodb" />
+</p>
+
+- RESTful API development
+- Advanced backend development
+- Full-stack application architecture
+- Database management and optimization
+- Artificial Intelligence and Machine Learning
+
+---
+
+## Core Competencies
+
+- Frontend application development
+- Backend development fundamentals
+- Database design and management
+- Authentication and authorization
+- State management
+- Responsive user interface development
+- Problem-solving and analytical thinking
+- Writing reusable and maintainable code
+
+---
 
 ## Featured Projects
 
-### Hostel Management Information System
-A web application for managing hostel rooms, student registration, payments and room allocation.
+I enjoy building practical applications that strengthen my engineering skills and demonstrate my ability to solve problems through technology.
 
-### Ichi
-A personal application currently under development.
+Explore my repositories to see my projects, development process, and technical growth.
 
-### Student Management System
-A CRUD application for managing student records.
+---
 
-###  Library Management System
-A database project for managing books, borrowing and returns.
+## GitHub Statistics
 
-### To-Do App
-A task management application built using Flask.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Statistics" />
+</p>
 
-### Expense Tracker
-Track income, expenses and monthly spending.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
+</p>
 
-## Currently Learning
+---
 
-- Flask REST APIs
-- Authentication
-- SQLAlchemy
-- React
-- Docker
-- Deployment
+## Professional Interests
 
-## 
-Connect With Me
-- GitHub: https://github.com/celestine-021
-- Portfolio: https://my-portfolio-one-dun-67.vercel.app/
-- linked in: https://www.linkedin.com/in/celestine-wangari-45140134a
+- Software Engineering
+- Full-Stack Development
+- Backend Engineering
+- Artificial Intelligence
+- Machine Learning
+- Open Source Contribution
 
- Thanks for visiting my profile!
+---
+
+## Let's Connect
+
+I am open to collaborating on software development projects, contributing to innovative solutions, learning from other developers, and exploring opportunities within the technology industry.
+
+**Building meaningful solutions through code.**
